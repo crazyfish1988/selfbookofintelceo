@@ -1,0 +1,220 @@
+@page {
+    margin-bottom: 5pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5pt;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+
+.bodypic {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    text-align: center
+    }
+.bookauthor {
+    display: block;
+    font-family: "MYing Hei S", Hei;
+    font-size: 1em;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.booktitle {
+    color: #1845B8;
+    display: block;
+    font-family: "MYing Hei S", Hei;
+    font-size: 2em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 2em;
+    text-align: center
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    border-bottom-color: currentColor;
+    border-bottom-style: inset;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: inset;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: inset;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: inset;
+    border-top-width: 1px;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em
+    }
+.calibre2 {
+    height: auto;
+    width: 80%
+    }
+.calibre3 {
+    height: auto;
+    width: 50%
+    }
+.calibre4 {
+    height: auto;
+    width: 100%
+    }
+.calibre5 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center
+    }
+.calibre6 {
+    height: auto;
+    width: auto
+    }
+.center {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 0
+    }
+.content {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 2em
+    }
+.contentcr {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 2em
+    }
+.contents {
+    display: block;
+    font-family: MicrosoftYaHei;
+    font-size: 1em;
+    line-height: 1.618em;
+    margin-left: 0;
+    text-align: justify
+    }
+.contents-title {
+    display: block
+    }
+.copyright-text {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.copyright-title {
+    color: #c1a173;
+    display: block;
+    font-family: "MYing Hei S", Hei;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    text-align: center;
+    text-indent: 0
+    }
+.firsttitle {
+    color: #1845B8;
+    display: block;
+    font-family: "MYing Hei S", Hei;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+    text-align: left;
+    text-indent: 0
+    }
+.imgdescript-l {
+    display: block;
+    font-family: STKai, "MKai PRC", Kai;
+    font-size: 0.75em;
+    margin-bottom: 0.3em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.3em;
+    text-align: left;
+    text-indent: 2em
+    }
+.qrbodypic {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    text-align: center
+    }
+.quotation-s {
+    font-family: STKai, "MKai PRC", Kai;
+    font-size: 1em;
+    line-height: 1.618em
+    }
+.right-info {
+    display: block;
+    font-family: STKai, "MKai PRC", Kai;
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.super {
+    font-size: 0.75em;
+    vertical-align: super
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
